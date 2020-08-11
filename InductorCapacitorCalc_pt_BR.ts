@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="InductorCapacitor_pt_BR">
+<TS version="2.1" language="InductorCapacitorCalc_pt_BR">
 <context>
     <name>AboutWindow</name>
     <message>

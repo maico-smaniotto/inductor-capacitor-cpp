@@ -34,7 +34,7 @@ FORMS += \
     mainwindow.ui
 
 TRANSLATIONS += \
-    InductorCapacitor_pt_BR.ts
+    InductorCapacitorCalc_pt_BR.ts
 
 RC_ICONS = program_icon.ico
 
